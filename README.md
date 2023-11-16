@@ -88,7 +88,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Uploading 283099423-d7a656f0-e1de-4f0a-8d74-fb84a71cb767.png…]()
+![283099423-d7a656f0-e1de-4f0a-8d74-fb84a71cb767](https://github.com/kamalesh2509/cover/assets/120444689/955b8d2c-3950-460e-b3fc-84bd526f91a2)
+
 
 
 
